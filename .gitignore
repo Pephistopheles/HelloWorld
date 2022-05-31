@@ -1,0 +1,72 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+Builds/VisualStudio2022/.vs/HelloWorld/FileContentIndex/0c4aeec3-2426-4970-bd03-4a4395ba58a2.vsidx
+Builds/VisualStudio2022/.vs/HelloWorld/v17/.suo
+Builds/VisualStudio2022/.vs/HelloWorld/FileContentIndex/read.lock
+Builds/VisualStudio2022/.vs/HelloWorld/v17/Browse.VC.db
+Builds/VisualStudio2022/.vs/HelloWorld/v17/Browse.VC.db-shm
+Builds/VisualStudio2022/.vs/HelloWorld/v17/Browse.VC.db-wal
+Builds/VisualStudio2022/.vs/HelloWorld/v17/Browse.VC.opendb
+Builds/VisualStudio2022/HelloWorld.sln
+Builds/VisualStudio2022/HelloWorld_App.vcxproj
+Builds/VisualStudio2022/HelloWorld_App.vcxproj.filters
+Builds/VisualStudio2022/HelloWorld_App.vcxproj.user
+Builds/VisualStudio2022/resources.rc
+Builds/VisualStudio2022/x64/Debug/App/HelloWorld.exe.recipe
+Builds/VisualStudio2022/x64/Debug/App/HelloWorld.ilk
+Builds/VisualStudio2022/x64/Debug/App/HelloWorld.pdb
+Builds/VisualStudio2022/x64/Debug/App/HelloWorld_App.log
+Builds/VisualStudio2022/x64/Debug/App/HelloWorld_App.tlog/CL.command.1.tlog
+Builds/VisualStudio2022/x64/Debug/App/HelloWorld_App.tlog/CL.read.1.tlog
+Builds/VisualStudio2022/x64/Debug/App/HelloWorld_App.tlog/CL.write.1.tlog
+Builds/VisualStudio2022/x64/Debug/App/HelloWorld_App.tlog/HelloWorld_App.lastbuildstate
+Builds/VisualStudio2022/x64/Debug/App/HelloWorld_App.tlog/link.command.1.tlog
+Builds/VisualStudio2022/x64/Debug/App/HelloWorld_App.tlog/link.read.1.tlog
+Builds/VisualStudio2022/x64/Debug/App/HelloWorld_App.tlog/link.write.1.tlog
+Builds/VisualStudio2022/x64/Debug/App/HelloWorld_App.tlog/rc.command.1.tlog
+Builds/VisualStudio2022/x64/Debug/App/HelloWorld_App.tlog/rc.read.1.tlog
+Builds/VisualStudio2022/x64/Debug/App/HelloWorld_App.tlog/rc.write.1.tlog
+Builds/VisualStudio2022/x64/Debug/App/HelloWorld_App.vcxproj.FileListAbsolute.txt
+Builds/VisualStudio2022/x64/Debug/App/resources.res
+JuceLibraryCode/include_juce_core.cpp
+JuceLibraryCode/include_juce_core.mm
+JuceLibraryCode/include_juce_data_structures.cpp
+JuceLibraryCode/include_juce_data_structures.mm
+JuceLibraryCode/include_juce_events.cpp
+JuceLibraryCode/include_juce_events.mm
+JuceLibraryCode/include_juce_graphics.cpp
+JuceLibraryCode/include_juce_graphics.mm
+JuceLibraryCode/include_juce_gui_basics.cpp
+JuceLibraryCode/include_juce_gui_basics.mm
+JuceLibraryCode/JuceHeader.h
+JuceLibraryCode/ReadMe.txt
